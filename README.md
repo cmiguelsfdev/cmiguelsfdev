@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Sou aluno da UMJ e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Procuro crescer profissionalmente em minhas áreas de interesse, que incluem Desenvolvimento de Software, Gerenciamento de Banco de Dados e desenvolvimento Front-end.<br>Com este perfil, meu objetivo não é apenas compartilhar meus projetos, mas também documentar meu progresso e aplicar a melhoria contínua da minha trajetória.</p>
+<p align="left">Sou aluno da UMJ e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Procuro crescer profissionalmente em minhas áreas de interesse, que incluem Desenvolvimento de Software, Gerenciamento de Banco de Dados e desenvolvimento Back-end.<br>Com este perfil, meu objetivo não é apenas compartilhar meus projetos, mas também documentar meu progresso e aplicar a melhoria contínua da minha trajetória.</p>
 
 ###
 
